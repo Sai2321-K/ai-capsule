@@ -1,0 +1,22 @@
+node_modules/
+client/node_modules/
+client/dist/
+dist/
+build/
+data/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+!.env.example
+npm-debug.log*
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# submission archive, built locally, not part of the repository
+ai-capsule-submission.zip
+*.zip
